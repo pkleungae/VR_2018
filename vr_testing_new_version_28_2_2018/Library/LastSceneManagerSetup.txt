@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CurvedUI/Demo Scenes/12 GoogleVR Starter.unity
+  isLoaded: 0
+  isActive: 0
